@@ -1102,6 +1102,7 @@ h1.intro-header {
   color: #151515;
   position: relative;
   padding-bottom: 3.6rem;
+  background-color: black;
 }
 
 h1.intro-header::before {
